@@ -1,7 +1,7 @@
 from optimal_change import optimal_change
 import unittest
     
-class TestRomanNumerals(unittest.TestCase):
+class TestOptimalChange(unittest.TestCase):
     """Tests for 'optimal_change.py'."""
    
     
